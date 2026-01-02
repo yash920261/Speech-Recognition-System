@@ -1,0 +1,82 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Audio files (except reference)
+*.wav
+!me.wav
+
+# Temporary files
+*.tmp
+*.temp
+tmp/
+temp/
+
+# Speech Recognition Models (large files)
+model/
+*.model
+*.pb
+*.onnx
+*.bin
+
+# SpeechBrain cache
+speechbrain/
+.cache/
+
+# Logs
+*.log
+
+# OS
+Thumbs.db
+desktop.ini
+
+# PyTorch
+*.pth
+*.pt
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment variables
+.env
+.env.local
+
+# Test recordings
+test_*.wav
+recording_*.wav

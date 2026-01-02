@@ -1,0 +1,38 @@
+<aiml>
+
+  <category>
+    <pattern>HELLO</pattern>
+    <template>Hello! How can I help you?</template>
+  </category>
+
+  <category>
+    <pattern>HI</pattern>
+    <template>Hello! How can I help you?</template>
+  </category>
+
+  <category>
+    <pattern>WHAT IS YOUR NAME</pattern>
+    <template>I am your personal assistant.</template>
+  </category>
+
+  <category>
+    <pattern>WHO CREATED YOU</pattern>
+    <template>You created me.</template>
+  </category>
+
+  <category>
+    <pattern>WHAT IS YOUR NAME *</pattern>
+    <template>I am your personal assistant.</template>
+  </category>
+
+  <category>
+    <pattern>WHATS YOUR NAME</pattern>
+    <template>I am your personal assistant.</template>
+  </category>
+
+  <category>
+    <pattern>WHO MADE YOU</pattern>
+    <template>You made me.</template>
+  </category>
+
+</aiml>
